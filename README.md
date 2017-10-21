@@ -6,7 +6,7 @@ https://friend-finder-chionugu.herokuapp.com/
 
 # Technologies used
 
-Node.js NPM
-body-parager NPM
-express NPM
-path NPM
+* body-parser
+* express
+* Node.js 
+* path 
